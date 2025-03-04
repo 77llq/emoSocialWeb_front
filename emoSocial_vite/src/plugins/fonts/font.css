@@ -1,0 +1,8 @@
+@font-face {
+    /* 重命名字体名 */
+    font-family: 'HyFABadBoy';
+    /* 引入字体 */
+    src: url('../fonts/HyFABadBoy-2.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
